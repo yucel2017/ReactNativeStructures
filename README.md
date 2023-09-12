@@ -1,3 +1,9 @@
+
+In this project, I have shared the package installations and usages of React-Native's button, flex, image, pressable, use state, function, text input, and navigation structures in a simple manner. This project is not design-focused; it is shared solely for the purpose of having all these structures used together and for backup.
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
