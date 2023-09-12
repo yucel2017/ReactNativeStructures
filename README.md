@@ -1,6 +1,9 @@
 
 In this project, I have shared the package installations and usages of React-Native's button, flex, image, pressable, use state, function, text input, and navigation structures in a simple manner. This project is not design-focused; it is shared solely for the purpose of having all these structures used together and for backup.
 
+Prewiev;
+
+https://github.com/yucel2017/ReactNativeStructures/assets/126460768/6f40454b-d3a5-4ae3-8085-1ae68a995c11
 
 
 
